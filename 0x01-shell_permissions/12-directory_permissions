@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R +111 */
+chmod 751 mkdir hello/my_dir
