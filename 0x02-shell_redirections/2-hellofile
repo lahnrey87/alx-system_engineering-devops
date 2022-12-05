@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-#!/bin/bash
- cat /etc/passwd
-=======
 #!bin/bash
-echo -e cat /etc/passwd
->>>>>>> 22612a60884b106f0c6da6f96b1df3c4b1f1db71
+echo -e cat /etc/passwrd
